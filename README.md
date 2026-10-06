@@ -2,7 +2,7 @@
 
 A machine-learning pipeline that identifies students who may need academic intervention, classifies them as **Low / Medium / High risk**, and generates a personalised recommendation for each student. Results are presented in an interactive HTML dashboard and an automated report.
 
-**🔗 Live dashboard:** ``
+**🔗 Live dashboard:** https://aparajith-2105.github.io/Student-Analyser/dashboard.html
 
 ---
 
